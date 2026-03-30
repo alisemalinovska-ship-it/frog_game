@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 95599052c91a87241a9d4df5bdc32c43
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7332900048318712510
+    second: klints1apaksa_0
+  - first:
+      213: 8033979983957397832
+    second: klints1apaksa_1
+  - first:
+      213: 214610867179644166
+    second: klints1apaksa_2
+  - first:
+      213: -8582130013150474387
+    second: klints1apaksa_3
+  - first:
+      213: 4513436697416934410
+    second: klints1apaksa_4
+  - first:
+      213: -4194866326597727963
+    second: klints1apaksa_5
+  - first:
+      213: -9040965075750317645
+    second: klints1apaksa_6
+  - first:
+      213: -5338257765809306802
+    second: klints1apaksa_7
+  - first:
+      213: -2122223442664543523
+    second: klints1apaksa_8
+  - first:
+      213: 6473231063727455419
+    second: klints1apaksa_9
+  - first:
+      213: 8297743785752754214
+    second: klints1apaksa_10
+  - first:
+      213: 4447087677525110417
+    second: klints1apaksa_11
+  - first:
+      213: 1281450274787583531
+    second: klints1apaksa_12
+  - first:
+      213: -5400861614448337783
+    second: klints1apaksa_13
+  - first:
+      213: 7847155105262292117
+    second: klints1apaksa_14
+  - first:
+      213: 1283315191697250901
+    second: klints1apaksa_15
+  - first:
+      213: -3587686635694255168
+    second: klints1apaksa_16
+  - first:
+      213: 4533126424198271534
+    second: klints1apaksa_17
+  - first:
+      213: -6932719904910175160
+    second: klints1apaksa_18
+  - first:
+      213: -5433403444178853169
+    second: klints1apaksa_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: klints1apaksa_0
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1425
+        width: 137
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba4b791eb1b3c560800000000000000
+      internalID: 7332900048318712510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_1
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1432
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8411164ca3e6e7f60800000000000000
+      internalID: 8033979983957397832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_2
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1433
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6056e2752737af200800000000000000
+      internalID: 214610867179644166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_3
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1433
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f82fd193626e880800000000000000
+      internalID: -8582130013150474387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1433
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04afb953c2f2ae30800000000000000
+      internalID: 4513436697416934410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_5
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1430
+        width: 131
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52905e22d47d8c5c0800000000000000
+      internalID: -4194866326597727963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_6
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 1430
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b190392a2a088280800000000000000
+      internalID: -9040965075750317645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1431
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43477568d2bae5b0800000000000000
+      internalID: -5338257765809306802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_8
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1430
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda29fdd5095c82e0800000000000000
+      internalID: -2122223442664543523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_9
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1417
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbcbf761b5985d950800000000000000
+      internalID: 6473231063727455419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_10
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6287ff28202872370800000000000000
+      internalID: 8297743785752754214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_11
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1424
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ea6e75eaa37bd30800000000000000
+      internalID: 4447087677525110417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1424
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b266a0a4c30a8c110800000000000000
+      internalID: 1281450274787583531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_13
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1424
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c93c50af84c05b0800000000000000
+      internalID: -5400861614448337783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_14
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1425
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c4d820ef1b6ec60800000000000000
+      internalID: 7847155105262292117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_15
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 1425
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a1af71e504fc110800000000000000
+      internalID: 1283315191697250901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_16
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1425
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c31702630af53ec0800000000000000
+      internalID: -3587686635694255168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 647
+        width: 20
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e22564c1776e8ee30800000000000000
+      internalID: 4533126424198271534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 640
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8449c844af70acf90800000000000000
+      internalID: -6932719904910175160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: klints1apaksa_19
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 0
+        width: 2692
+        height: 1367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2e55cda5ca894b0800000000000000
+      internalID: -5433403444178853169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      klints1apaksa_0: 7332900048318712510
+      klints1apaksa_1: 8033979983957397832
+      klints1apaksa_10: 8297743785752754214
+      klints1apaksa_11: 4447087677525110417
+      klints1apaksa_12: 1281450274787583531
+      klints1apaksa_13: -5400861614448337783
+      klints1apaksa_14: 7847155105262292117
+      klints1apaksa_15: 1283315191697250901
+      klints1apaksa_16: -3587686635694255168
+      klints1apaksa_17: 4533126424198271534
+      klints1apaksa_18: -6932719904910175160
+      klints1apaksa_19: -5433403444178853169
+      klints1apaksa_2: 214610867179644166
+      klints1apaksa_3: -8582130013150474387
+      klints1apaksa_4: 4513436697416934410
+      klints1apaksa_5: -4194866326597727963
+      klints1apaksa_6: -9040965075750317645
+      klints1apaksa_7: -5338257765809306802
+      klints1apaksa_8: -2122223442664543523
+      klints1apaksa_9: 6473231063727455419
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
